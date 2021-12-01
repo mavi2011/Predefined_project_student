@@ -74,5 +74,5 @@ function speak(){
 }
 
 function preload(){
-apple = loadImage("apple.png");
+apple = loadimage("apple.png");
 }
